@@ -1,4 +1,4 @@
-###Overview
+### Overview
 This project analyzes sales data from a US superstore, involving data collection, preprocessing, exploratory data analysis (EDA), data modeling, and visualization using Power BI.
 
 #### Steps
